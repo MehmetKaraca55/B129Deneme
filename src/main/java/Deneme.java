@@ -4,6 +4,7 @@ public class Deneme {
         System.out.println("Dünya");
         System.out.println("B129");
         //Merhaba Dünya
+        //GİtHub
     }
 }//Restore--> Tamamen working space'ı temizler
 //Stash--> Working Space'ı hafızaya alır.
